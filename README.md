@@ -10,7 +10,7 @@
 
 
 - 💼 &nbsp; Founder of <a href="http://vnfullstack.com/">VNFS - VNFullstack.com</a>
-- 🎓 &nbsp; Studying for a master's degree at <a href="https://www.vnu.edu.vn/">Vietnam National University</a>
+- 🎓 &nbsp; Studying for a master's degree at <a href="https://www.vnu.edu.vn/">Vietnam National University - VNU</a>
 
 ### Glad to see you here! &nbsp; 
 
