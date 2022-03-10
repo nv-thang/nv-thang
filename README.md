@@ -16,11 +16,7 @@
 
 I'm a graduate in Computer Science 🎓 from Hanoi University of Mining and Geology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
-
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
-
-<img align="right" height="320" width="500" alt="" src="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/121986343_1750442901776600_1607097876207100889_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=M6iL5nmkticAX_x9ews&_nc_ht=scontent.fhan14-1.fna&oh=00_AT-Oo_pId4axvLUhI_mIOPJZPbst5weIlMfELVEm3K89ng&oe=624EEE87" />
+<img align="right" height="320" width="400" alt="" src="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/121986343_1750442901776600_1607097876207100889_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=M6iL5nmkticAX_x9ews&_nc_ht=scontent.fhan14-1.fna&oh=00_AT-Oo_pId4axvLUhI_mIOPJZPbst5weIlMfELVEm3K89ng&oe=624EEE87" />
 
 ### Talking about Personal Stuffs
 - 💼 &nbsp; Any freelance work? do reach, [email](mailto:crthang14@gmail.com)😄
@@ -44,26 +40,7 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-
 #
-
 <div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
-
-<!--
-**nv-thang/nv-thang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
