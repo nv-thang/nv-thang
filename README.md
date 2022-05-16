@@ -16,7 +16,7 @@
 
 I'm a graduate in Computer Science 🎓 from Hanoi University of Mining and Geology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
-<img align="right" height="300" width="420" alt="" src="https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/121986343_1750442901776600_1607097876207100889_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=M6iL5nmkticAX_x9ews&_nc_ht=scontent.fhan14-1.fna&oh=00_AT-Oo_pId4axvLUhI_mIOPJZPbst5weIlMfELVEm3K89ng&oe=624EEE87" />
+<img align="right" height="300" width="420" alt="" src="https://i.ibb.co/rfH2NML/125371962-1780997262054497-4297149296835321027-n.jpg" />
 
 ### Talking about Personal Stuffs
 - 💼 &nbsp; Any freelance work? do reach, [email](mailto:crthang14@gmail.com)😄
