@@ -14,7 +14,7 @@
 
 ### Glad to see you here! &nbsp; 
 
-I'm a graduate in Computer Science 🎓 from Hanoi University of Mining and Geology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
 <img align="right" height="300" width="420" alt="" src="https://i.ibb.co/rfH2NML/125371962-1780997262054497-4297149296835321027-n.jpg" />
 
