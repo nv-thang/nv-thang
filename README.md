@@ -16,15 +16,15 @@
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 
-<img align="right" height="300" width="420" alt="" src="https://zpsocial-f52-org.zadn.vn/7a72ec856c018d5fd410.jpg" />
+<img align="right" height="420" width="420" alt="" src="https://zpsocial-f52-org.zadn.vn/7a72ec856c018d5fd410.jpg" />
 
 ### Talking about Personal Stuffs
 - 💼 &nbsp; Any freelance work? do reach, [email](mailto:crthang14@gmail.com)😄
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Flutter, Java , Mongodb, Machine Learning, Big Data , etc.
+- 🛠 &nbsp; I’m currently working with AI, Machine Learning, Big Data , etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nv-thang).
-- 💬 &nbsp; Ask me about anything, I am happy to help.
 - 📫 &nbsp; How to reach me: crthang14@gmail.com.
 - 📝 &nbsp; Website [vnfullstack.com](https://vnfullstack.com).
+- 💬 &nbsp; Ask me about anything, I am happy to help.
 
 ### Languages and tools
 
